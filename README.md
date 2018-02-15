@@ -12,6 +12,8 @@ cp BreezeDarkColorSchemes/color-schemes/Breeze\ Dark\ Purple.colors ~/.kde/share
 cp BreezeDarkColorSchemes/color-schemes/Breeze\ Dark\ DeepDark.colors ~/.kde/share/apps/color-schemes/
 ```
 
+If the files don't appear in the system settings you may need to install from file. Simply go to ~/.kde/share/apps/color-schemes/ and choose the file you want. Also open the windows again to make sure the theming is applied. A logout may be required too.
+
 # Use
 ```
 ChangeColors.sh Name main_color main_background second_background
