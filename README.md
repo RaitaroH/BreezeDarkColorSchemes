@@ -29,6 +29,8 @@ ChangeColors.sh Purple 114,63,140 11,10,13 23,21,28
 
 For more colors check out my color schemes here: https://github.com/OpenUserCSS/OpenUserCSS-DeepDark#colors
 
+If you want to change icons, look [here](https://github.com/RaitaroH/BreezeDark-Icon-Colors)
+
 I actually provide Purple in the repo myself because it is a little bit more polished (it includes pink not just purple). Arc or DeepDark are themselves blue so it works better. Mint is green so you might want to change the link color if you don't like it.
 
 
