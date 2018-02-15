@@ -1,5 +1,5 @@
 # BreezeDarkColorSchemes
-A script that can easily change breeze dark to any color scheme you want. It changes the blue and the window colors.
+A script that can easily change breeze dark to any color scheme you want, **BUT, this is not a gtk theme changer, just QT only**. It changes the blue and the window colors.
 
 NOTE: I don't see why this couldn't work for the white theme too. Simple change the colors that sed is looking for.
 
