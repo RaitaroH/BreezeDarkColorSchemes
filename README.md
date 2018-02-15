@@ -1,6 +1,8 @@
 # BreezeDarkColorSchemes
 A script that can easily change breeze dark to any color scheme you want. It changes the blue and the window colors.
 
+NOTE: I don't see why this couldn't work for the white theme too. Simple change the colors that sed is looking for.
+
 # Installations
 ```
 git clone https://github.com/RaitaroH/BreezeDarkColorSchemes.git
