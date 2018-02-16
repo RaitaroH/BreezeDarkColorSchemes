@@ -6,6 +6,7 @@ NOTE: I don't see why this couldn't work for the white theme too. Simple change 
 # Installations
 ```
 git clone https://github.com/RaitaroH/BreezeDarkColorSchemes.git
+chmod +x BreezeDarkColorSchemes/ChangeColors.sh
 ```
 
 You can also just move the color files from the repo to ~/.kde/share/apps/color-schemes/
