@@ -39,3 +39,6 @@ I actually provide Purple in the repo myself because it is a little bit more pol
 ![alt-tag](https://raw.githubusercontent.com/RaitaroH/BreezeDarkColorSchemes/master/Images/DeepDark.png)
 ![alt-tag](https://raw.githubusercontent.com/RaitaroH/BreezeDarkColorSchemes/master/Images/ArcDark.png)
 ![alt-tag](https://raw.githubusercontent.com/RaitaroH/BreezeDarkColorSchemes/master/Images/MintYDark.png)
+
+## You can also use my icon script [here](https://github.com/RaitaroH/BreezeDarkIconColors) for a result like so:
+![alt-tag](https://raw.githubusercontent.com/RaitaroH/BreezeDarkColorSchemes/master/Images/Purple+Purple.png)
