@@ -5,7 +5,7 @@ NOTE: I don't see why this couldn't work for the white theme too. Simple change 
 
 # Installations
 ```
-git clone https://github.com/RaitaroH/BreezeDarkColorSchemes.git
+git clone https://gitlab.com/RaitaroH/BreezeDarkColorSchemes.git
 chmod +x BreezeDarkColorSchemes/ChangeColors.sh
 ```
 
@@ -30,16 +30,16 @@ ChangeColors.sh Purple 114,63,140 11,10,13 23,21,28
 
 For more colors check out my color schemes here: https://github.com/OpenUserCSS/OpenUserCSS-DeepDark#colors
 
-If you want to change icons, look [here](https://github.com/RaitaroH/BreezeDark-Icon-Colors)
+If you want to change icons, look [here](https://gitlab.com/RaitaroH/BreezeDark-Icon-Colors)
 
 I actually provide Purple in the repo myself because it is a little bit more polished (it includes pink not just purple). Arc or DeepDark are themselves blue so it works better. Mint is green so you might want to change the link color if you don't like it.
 
 
 # Pictures
-![alt-tag](https://raw.githubusercontent.com/RaitaroH/BreezeDarkColorSchemes/master/Images/9anime.png)
-![alt-tag](https://raw.githubusercontent.com/RaitaroH/BreezeDarkColorSchemes/master/Images/DeepDark.png)
-![alt-tag](https://raw.githubusercontent.com/RaitaroH/BreezeDarkColorSchemes/master/Images/ArcDark.png)
-![alt-tag](https://raw.githubusercontent.com/RaitaroH/BreezeDarkColorSchemes/master/Images/MintYDark.png)
+![alt-tag](./Images/9anime.png)
+![alt-tag](./Images/DeepDark.png)
+![alt-tag](./Images/ArcDark.png)
+![alt-tag](./Images/MintYDark.png)
 
-## You can also use my icon script [here](https://github.com/RaitaroH/BreezeDarkIconColors) for a result like so:
-![alt-tag](https://raw.githubusercontent.com/RaitaroH/BreezeDarkColorSchemes/master/Images/Purple+Purple.png)
+## You can also use my icon script [here](https://gitlab.com/RaitaroH/BreezeDarkIconColors) for a result like so:
+![alt-tag](./Images/Purple+Purple.png)
